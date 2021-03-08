@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(87, 128, 89);
+}
+
+
+.para-style{
+    color: red;
+    font-size: 4rem;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.listen-chake{
+    font-size: 4rem;
+    color: tomato;
+    font-style: italic;
+}
+ 
+.audioButton {
+    width: 100px;
+height: 50px;
+background-color: lawngreen;
+margin: 20px;
+}
+
+.anim{
+    box-shadow: 0 15px 18px 0 tomato;
+    opacity: 0.5;
+}
